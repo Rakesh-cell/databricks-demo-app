@@ -7,6 +7,7 @@ targets:
     default: true
     workspace:
       host: https://adb-2807577685158463.3.azuredatabricks.net
+      profile: "rakesh m"
 
 resources:
   apps:
